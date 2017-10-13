@@ -1,0 +1,19 @@
+.box {
+    margin: 20px;
+    padding:20px;
+    border: solid black 3px;
+
+
+}
+
+#id1 {
+        background-color: lightgreen;
+}
+
+#id2 {
+        background-color: lightsalmon;
+}
+
+#id3 {
+    background-color: lightskyblue;
+}

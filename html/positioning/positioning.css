@@ -1,0 +1,18 @@
+div{
+    background-color: lightblue;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#div2{
+    position: fixed;
+    bottom: 50px;
+
+} 
+#div3{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+   
+}

@@ -1,0 +1,24 @@
+#para1 {
+    font-size: 30px;
+}
+
+#para2 {
+    font-size: 30pt
+}
+
+#para3 {
+    font-family: serif;
+}
+
+#para4 {
+    font-style: italic;
+}
+
+#para5 {
+    font-weight: boldl;
+}
+
+#para6 {
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
